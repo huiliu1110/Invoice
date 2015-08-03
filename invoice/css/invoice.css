@@ -1,0 +1,11 @@
+body{
+	border:2px solid black;
+	font-family:"Times New Roman",Georgia,Serif;
+	padding: 15px;
+	width:60%;
+}
+
+
+li{
+	font-size: 70%;
+}
